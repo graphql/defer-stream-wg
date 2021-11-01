@@ -4,7 +4,7 @@ This repo is used by the individuals working on the GraphQL defer/stream spec pr
 
 
 References:
-* [Spec edits](https://github.com/graphql/graphql-spec/pull/742)
+* [Spec PR](https://github.com/graphql/graphql-spec/pull/742)
 * [graphql-js PR](https://github.com/graphql/graphql-js/pull/2839)
 * [defer/stream RFC](https://github.com/graphql/graphql-spec/blob/master/rfcs/DeferStream.md)
 * [graphql-over-http RFC](https://github.com/graphql/graphql-over-http/blob/master/rfcs/IncrementalDelivery.md)

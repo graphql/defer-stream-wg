@@ -8,7 +8,7 @@ The easiest way to learn about the defer/stream directives is to [read the RFC](
 
 References:
 * [Spec PR](https://github.com/graphql/graphql-spec/pull/742)
-* [graphql-js PR](https://github.com/graphql/graphql-js/pull/2839)
+* [graphql-js PR](https://github.com/graphql/graphql-js/pull/3659)
 * [defer/stream RFC](https://github.com/graphql/graphql-wg/blob/main/rfcs/DeferStream.md)
 * [graphql-over-http RFC](https://github.com/graphql/graphql-over-http/blob/master/rfcs/IncrementalDelivery.md)
 * [express-graphql PR](https://github.com/graphql/express-graphql/pull/583)

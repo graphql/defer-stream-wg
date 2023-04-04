@@ -158,20 +158,20 @@ _Score: **Minor**_
 The same fields should not be delivered to the client multiple times,
 unnecessarily increasing the data transferred.
 
-## 🎯 M. Thrashing should be minimized
+## 🎯 N. Thrashing should be minimized
 
 _Score: **Minor**_
 
 Incremental results should be able to be batched, and clients should be able to
 apply all of the batched updates before triggering a re-render.
 
-## 🎯 N. Possible incremental payload shapes should be predictable
+## 🎯 O. Possible incremental payload shapes should be predictable
 
 _Score: **Minor**_
 
 Predicable payload shapes are beneficial for statically typed clients
 
-## 🎯 O. Full fragment returned in each payload
+## 🎯 P. Full fragment returned in each payload
 
 _Score: **Minor**_
 

@@ -1,0 +1,24 @@
+{
+  "name": "defer-stream-wg",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/robrichard/defer-stream-wg.git"
+  },
+  "scripts": {
+    "test": "npm run test:spelling && npm run test:format",
+    "format": "prettier --write \"**/*.{md,yml,yaml,json}\"",
+    "test:format": "prettier --check \"**/*.{md,yml,yaml,json}\"",
+    "test:spelling": "cspell \"**/*.md\""
+  },
+  "devDependencies": {
+    "prettier": "2.8.7"
+  },
+  "prettier": {
+    "proseWrap": "always",
+    "trailingComma": "none"
+  },
+  "dependencies": {
+    "cspell": "^6.31.1"
+  }
+}

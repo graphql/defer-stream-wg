@@ -1,0 +1,7 @@
+language: en-US
+ignoreRegExpList:
+  # Posessives
+  - /[a-z]{2,}'s/
+words:
+  - proxied
+  - meros

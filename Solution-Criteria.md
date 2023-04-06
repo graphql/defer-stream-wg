@@ -55,7 +55,7 @@ https://github.com/robrichard/defer-stream-wg/discussions/52#discussioncomment-3
 
 ## 🎯 E. Payloads must be actionable (no greedy delivery)
 
-_Score: **Major**_
+_Score: **Minor**_
 
 Servers should not send payloads to the client that are not actionable. An
 example of this is if the server sends some of the fields from a deferred

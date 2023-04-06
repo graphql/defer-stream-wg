@@ -180,3 +180,18 @@ _Score: **Minor**_
 A close representation of the fragment response should be returned in payloads,
 allowing clients to render directly from the incremental responses without
 building on prior results.
+
+## 🎯 Q. Field ordering is maintained
+
+_Score: **Minor**_
+
+The GraphQL spec says on field ordering
+
+> Serialization formats which represent an ordered map should preserve the order
+> of requested fields as defined by CollectFields() in the Execution section.
+> Serialization formats which only represent unordered maps but where order is
+> still implicit in the serialization’s textual order (such as JSON) should
+> preserve the order of requested fields textually.
+
+A solution meets this criteria if the final reconciled object preserves the
+order of requested fields as defined by CollectFields().

@@ -103,7 +103,9 @@ _Score: **Major**_
 Product developers should be able to defer fields independently, either by
 placing them in separate deferred fragments or via another method. These
 independently deferred fields should be delivered when they are ready, without
-being blocked by the execution of one another.
+being blocked by the execution of one another. Solutions that merge deferred
+fragments with the same path or label will pass this criteria as they still
+provide a mechanism to allow fields to be independently deferred.
 
 ## 🎯 H. Server should be able to inline individual @defer/@stream directives
 

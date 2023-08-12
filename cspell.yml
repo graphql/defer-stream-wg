@@ -3,5 +3,16 @@ ignoreRegExpList:
   # Posessives
   - /[a-z]{2,}'s/
 words:
+  # Terms of art
+  - endianness
+  - interoperation
+  - monospace
+  - openwebfoundation
+  - parallelization
+  - structs
+  - subselection
   - proxied
+  # Software
+  - ical
   - meros
+  # Fictional characters / examples

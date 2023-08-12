@@ -1,6 +1,7 @@
 {
   "name": "defer-stream-wg",
   "private": true,
+  "license": "OWFa-1.0",
   "repository": {
     "type": "git",
     "url": "http://github.com/robrichard/defer-stream-wg.git"
@@ -12,13 +13,11 @@
     "test:spelling": "cspell \"**/*.md\""
   },
   "devDependencies": {
+    "cspell": "5.9.1",
     "prettier": "2.8.7"
   },
   "prettier": {
     "proseWrap": "always",
     "trailingComma": "none"
-  },
-  "dependencies": {
-    "cspell": "^6.31.1"
   }
 }

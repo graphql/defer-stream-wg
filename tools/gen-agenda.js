@@ -205,7 +205,8 @@ function getMeetingDays(year, month) {
 
 function getMeetings(year, month) {
   // meetings are at 10am ET
-  const time = 10;
+  const hour = 11;
+  const minute = 30;
   const length = 60;
 
   const meetingDays = getMeetingDays(year, month);
@@ -213,7 +214,7 @@ function getMeetings(year, month) {
   const meetings = [];
   for (const meetingDay of meetingDays) {
       // Get the actual Date instance representing the start time of this meeting
-      const dateTime = new Date(meetingDay.getFullYear(), meetingDay.getMonth(), meetingDay.getDate(), time);
+      const dateTime = new Date(meetingDay.getFullYear(), meetingDay.getMonth(), meetingDay.getDate(), hour, minute);
 
       // Get the full date and time range string
       const endTime = new Date(dateTime);

@@ -7,6 +7,7 @@
     "url": "http://github.com/robrichard/defer-stream-wg.git"
   },
   "scripts": {
+    "gen-agenda": "wgutils agenda gen",
     "test": "npm run test:spelling && npm run test:format",
     "format": "prettier --write \"**/*.{md,yml,yaml,json}\"",
     "test:format": "prettier --check \"**/*.{md,yml,yaml,json}\"",
@@ -19,5 +20,8 @@
   "prettier": {
     "proseWrap": "always",
     "trailingComma": "none"
+  },
+  "dependencies": {
+    "wgutils": "^0.1.7"
   }
 }

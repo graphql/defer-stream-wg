@@ -27,6 +27,7 @@ To read about the purpose of this subcommittee, please see [the README](../../RE
 | :------------------------- | :------------------- | :----------------- | :----------------------- |
 | Rob Richard (Host)         | @robrichard          | 1stDibs            | Jersey City, NJ, US      |
 | Benjie Gillam              | @benjie              | Graphile           | Chandler's Ford, UK      |
+| Yaacov Rydzinski           | @yaacovCR            | Individual         | Neve Daniel, IL          |
 
 
 ## Agenda

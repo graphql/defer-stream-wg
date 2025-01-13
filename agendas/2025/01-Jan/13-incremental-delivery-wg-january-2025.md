@@ -26,6 +26,7 @@ To read about the purpose of this subcommittee, please see [the README](../../RE
 | Name                       | GitHub               | Organization       | Location                 |
 | :------------------------- | :------------------- | :----------------- | :----------------------- |
 | Rob Richard (Host)         | @robrichard          | 1stDibs            | Jersey City, NJ, US      |
+| Benjie Gillam              | @benjie              | Graphile           | Chandler's Ford, UK      |
 
 
 ## Agenda

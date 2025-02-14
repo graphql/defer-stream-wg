@@ -1,7 +1,7 @@
 | This is an open meeting: To attend, edit and PR this file. (Edit: ✎ above, or press "e") |
 | ---------------------------------------------------------------------------------------- |
 
-# Incremental Delivery WG — February 20 2025
+# Incremental Delivery WG — February 20 2025 (Ad-Hoc)
 
 To read about the purpose of this subcommittee, please see [the README](../../README.md).
 
@@ -22,6 +22,7 @@ To read about the purpose of this subcommittee, please see [the README](../../RE
 | Name                       | GitHub               | Organization       | Location                 |
 | :------------------------- | :------------------- | :----------------- | :----------------------- |
 | Rob Richard (Host)         | @robrichard          | 1stDibs            | Jersey City, NJ, US      |
+| Benjie Gillam              | @benjie              | Graphile           | Chandler's Ford, UK      |
 
 
 ## Agenda

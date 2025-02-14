@@ -6,7 +6,7 @@
 To read about the purpose of this subcommittee, please see [the README](../../README.md).
 
 
-- **Date & Time**: [February 20, 2025, 1:00 PM – 2:00 PM EST]([https://www.timeanddate.com/worldclock/converter.html?iso=20250113T163000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240](https://www.timeanddate.com/worldclock/converter.html?iso=20250220T180000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240))
+- **Date & Time**: [February 20, 2025, 1:00 PM – 2:00 PM EST](https://www.timeanddate.com/worldclock/converter.html?iso=20250220T180000&p1=224&p2=179&p3=136&p4=268&p5=367&p6=438&p7=248&p8=240)
 - **Video Conference Link**: https://zoom.us/j/92252078709
   - _Password:_ graphqlwg
 - **Live Notes**: [Live Notes][]

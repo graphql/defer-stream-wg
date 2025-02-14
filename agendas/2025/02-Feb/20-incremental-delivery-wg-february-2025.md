@@ -1,7 +1,7 @@
 | This is an open meeting: To attend, edit and PR this file. (Edit: ✎ above, or press "e") |
 | ---------------------------------------------------------------------------------------- |
 
-# Incremental Delivery WG — January 2025
+# Incremental Delivery WG — February 20 2025
 
 To read about the purpose of this subcommittee, please see [the README](../../README.md).
 

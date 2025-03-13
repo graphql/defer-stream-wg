@@ -22,6 +22,6 @@
     "trailingComma": "none"
   },
   "dependencies": {
-    "wgutils": "^0.1.7"
+    "wgutils": "^1.2.5"
   }
 }

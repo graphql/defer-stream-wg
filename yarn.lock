@@ -793,6 +793,11 @@ parent-module@^2.0.0:
   dependencies:
     callsites "^3.1.0"
 
+parse-diff@0.11.1:
+  version "0.11.1"
+  resolved "https://registry.yarnpkg.com/parse-diff/-/parse-diff-0.11.1.tgz#d93ca2d225abed280782bccb1476711ca9dd84f0"
+  integrity sha512-Oq4j8LAOPOcssanQkIjxosjATBIEJhCxMCxPhMu+Ci4wdNmAEdx0O+a7gzbR2PyKXgKPvRLIN5g224+dJAsKHA==
+
 parse-json@^5.0.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/parse-json/-/parse-json-5.2.0.tgz#c76fc66dee54231c962b22bcc8a72cf2f99753cd"
@@ -936,13 +941,14 @@ vscode-uri@^3.0.2, vscode-uri@^3.0.3:
   resolved "https://registry.yarnpkg.com/vscode-uri/-/vscode-uri-3.0.7.tgz#6d19fef387ee6b46c479e5fb00870e15e58c1eb8"
   integrity sha512-eOpPHogvorZRobNqJGhapa0JdwaxpjVvyBp0QIUMRMSf8ZAlqOdEquKuRmw9Qwu0qXtJIWqFtMkmvJjUZmMjVA==
 
-wgutils@^0.1.7:
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/wgutils/-/wgutils-0.1.7.tgz#17082c4bcacde23216c8ee3f3c6d92df0e6adaf8"
-  integrity sha512-5Z3dPmaZebAPKNSuUazzN3GZiYu8weyYKsXOKfFTz/jrtFbHH8q3hz2fvg2sHthbTC0IsEgiqEyzQpes9qTPxg==
+wgutils@^1.2.5:
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/wgutils/-/wgutils-1.2.5.tgz#193b96bb45553bcafa9991f5128e7154b78b64be"
+  integrity sha512-Yr6W8MFJcbzOphhOe0Knzj75QMaDbwjKQ/xRIoUgzM8SOCDC3IJJ7gE8gTrT+X2w5wmgK3HKOLT3VY+/fquQUg==
   dependencies:
     date-fns "^2"
     date-fns-tz "^2.0.0"
+    parse-diff "0.11.1"
     yargs "^17.7.2"
     zod "^3.22.4"
 

@@ -19,7 +19,7 @@ upcoming event's agenda to _attend_ or _propose an agenda item_.
 All meetings occur via video conference, however participating company offices
 are welcome to host guests.
 
-Meetings are typically scheduled every Monday at 7am Pacific Time. Check the
+Meetings are typically scheduled on an ad-hoc basis. Check the
 [agendas](./agendas) for the exact date and time of upcoming meetings.
 
 Keep track of future upcoming meetings by subscribing to the
